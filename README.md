@@ -23,8 +23,8 @@ WBP представляет собой пакет важных компонен
 
 ## Скриншоты
 <div align="center">
-  <img src="https://github.com/ahakahacker/windows-basic-pack/blob/main/image.png">
-  <img src="https://github.com/ahakahacker/windows-basic-pack/blob/main/image2.png">
-  <img src="https://github.com/ahakahacker/windows-basic-pack/blob/main/image3.png">
-  <img src="https://github.com/ahakahacker/windows-basic-pack/blob/main/image4.png">
+  <img src="https://github.com/ahakahacker/windows-basic-pack/blob/main/img/image.png">
+  <img src="https://github.com/ahakahacker/windows-basic-pack/blob/main/img/image2.png">
+  <img src="https://github.com/ahakahacker/windows-basic-pack/blob/main/img/image3.png">
+  <img src="https://github.com/ahakahacker/windows-basic-pack/blob/main/img/image4.png">
 </div>
