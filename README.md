@@ -20,3 +20,11 @@ WBP представляет собой пакет важных компонен
 ## Использование
 
 Переклюсайтесь между вкладками, во вкладках есть кнопки выбора версий или кнопка автоматической усановки (у DirectX)
+
+## Скриншоты
+<div align="center">
+  <img src="https://github.com/ahakahacker/windows-basic-pack/blob/main/image.png">
+  <img src="https://github.com/ahakahacker/windows-basic-pack/blob/main/image2.png">
+  <img src="https://github.com/ahakahacker/windows-basic-pack/blob/main/image3.png">
+  <img src="https://github.com/ahakahacker/windows-basic-pack/blob/main/image4.png">
+</div>
