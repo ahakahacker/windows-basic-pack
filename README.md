@@ -1,6 +1,8 @@
-# Windows Basic Pack
-
-Пак часто используемых библиокек.
+<div align="center">
+  <h1>Windows Basic Pack</h1>
+  <img height="200px" src="https://github.com/ahakahacker/windows-basic-pack/blob/main/box.png">
+  <h4>Пак часто используемых библиокек.</h4>
+</div>
 
 ## О WBP
 
